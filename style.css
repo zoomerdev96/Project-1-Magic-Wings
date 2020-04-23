@@ -1,3 +1,10 @@
 .logo {
 width: 70%;    
 }
+
+#memorial { 
+padding-top: 10px;
+margin: auto;
+text-align: center;    
+font-weight: bold;
+}
