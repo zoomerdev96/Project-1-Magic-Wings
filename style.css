@@ -1,28 +1,40 @@
+/* navbar elements */
+
 .logo {
 width: 70%;    
 }
 
+/* front page text elements */
+
 #memorial { 
-padding-top: 10px;
-margin: auto;
-text-align: center;    
-font-weight: bold;
+    padding-top: 10px;
+    margin: auto;
+    text-align: center;    
+    font-weight: bold;
 }
 
 #copy { 
-padding-top: 5%;
-padding-bottom: 5%;
-margin: auto;
-text-align: center;    
-font-style: italic;
-font-size: 24px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin: auto;
+    text-align: center;    
+    font-style: italic;
+    font-size: 24px;
 }
 
 .millers {
-display: block;
-margin-left: auto;
-margin-right: auto;
-width: 30%;
-padding-top: 5%;
-padding-bottom: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
+
+/* carousel */
+
+.carousel-container {
+    margin: 90px auto 20px auto;
+}
+
+/* snappa.com */
